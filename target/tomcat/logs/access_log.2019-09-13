@@ -1,0 +1,13 @@
+0:0:0:0:0:0:0:1 - - [13/Sep/2019:23:56:45 +0800] "GET / HTTP/1.1" 200 52 http-bio-8888-exec-1 1698
+0:0:0:0:0:0:0:1 - - [13/Sep/2019:23:56:45 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8888-exec-2 4
+0:0:0:0:0:0:0:1 - - [13/Sep/2019:23:56:56 +0800] "GET /login.jsp HTTP/1.1" 404 969 http-bio-8888-exec-3 2
+0:0:0:0:0:0:0:1 - - [13/Sep/2019:23:57:38 +0800] "GET /login.jsp HTTP/1.1" 200 3935 http-bio-8888-exec-4 90
+0:0:0:0:0:0:0:1 - - [13/Sep/2019:23:57:38 +0800] "GET /css/login.css HTTP/1.1" 404 977 http-bio-8888-exec-5 2
+0:0:0:0:0:0:0:1 - - [13/Sep/2019:23:57:38 +0800] "GET /js/lib/bootstrap.js HTTP/1.1" 404 989 http-bio-8888-exec-10 5
+0:0:0:0:0:0:0:1 - - [13/Sep/2019:23:57:38 +0800] "GET /css/lib/bootstrap.css HTTP/1.1" 404 993 http-bio-8888-exec-8 7
+0:0:0:0:0:0:0:1 - - [13/Sep/2019:23:57:38 +0800] "GET /fonts/iconfont.css HTTP/1.1" 404 987 http-bio-8888-exec-7 8
+0:0:0:0:0:0:0:1 - - [13/Sep/2019:23:57:38 +0800] "GET /js/lib/jquery-3.4.0.min.js HTTP/1.1" 404 1003 http-bio-8888-exec-9 1
+0:0:0:0:0:0:0:1 - - [13/Sep/2019:23:57:38 +0800] "GET /js/lib/bootstrap.js HTTP/1.1" 404 989 http-bio-8888-exec-9 3
+0:0:0:0:0:0:0:1 - - [13/Sep/2019:23:57:38 +0800] "GET /css/reset.css HTTP/1.1" 404 977 http-bio-8888-exec-6 8
+0:0:0:0:0:0:0:1 - - [13/Sep/2019:23:57:38 +0800] "GET /images/bj.jpg HTTP/1.1" 404 977 http-bio-8888-exec-9 3
+0:0:0:0:0:0:0:1 - - [13/Sep/2019:23:57:39 +0800] "GET /images/banner.png HTTP/1.1" 404 985 http-bio-8888-exec-9 1
