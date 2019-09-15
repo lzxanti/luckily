@@ -1,0 +1,105 @@
+.container-fluid{
+    padding: 0;
+}
+.container-fluid > div.row{
+    margin-left: 0;
+    margin-right: 0;
+}
+.banner > img{
+    height: 150px;
+    /* width: 150px; */
+}
+.tools-bar{
+    width: 100%;
+}
+.tools-bar span{
+    line-height: 50px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+
+.func-center{
+    width: 100%;
+}
+.avatar > img{
+    height: 60px;
+    width: 60px;
+}
+
+.avatar{
+    padding-left: 90px;
+}
+
+.plugin-icon{
+    height: 60px;
+    width: 60px;
+    border: 2px solid rgb(122, 206, 195);
+    border-radius: 50%;
+    color: rgb(122, 206, 195);
+    text-align: center
+}
+
+.plugin-icon span{
+    padding-top: 15px;
+    cursor: pointer;
+}
+
+.new-header img{
+    width: 100%;
+}
+
+.msg-header img{
+    width: 100%;
+}
+
+
+
+.func{
+    background-color: rgb(253, 244, 239)
+}
+
+.func img{
+    height: 50px;
+    width: 50px;
+    cursor: pointer;
+}
+
+.func span{
+    font-size: 12px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.second-func img{
+    height: 30px;
+    width: 30px;
+}
+
+.second-func span{
+    font-size: 12px;
+    display: inline-block;
+}
+
+@media (max-width: 991px) { 
+    .tools-bar{
+        font-size: 14px;
+    }
+    .tools-bar span {
+        line-height: 25px;
+        cursor: pointer;
+    }
+ }
+
+
+ .footer {
+    padding: 20px;
+    background-color: #cccccc;
+    color: white;
+    line-height: 20px;
+    font-size: 14px;
+}
+
+.pointer{
+    cursor: pointer;
+}

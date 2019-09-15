@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+body {
+}
+
+.my-form {
+    margin: 150px auto;
+}
+
+.my-btn {
+    width: 50%;
+}
+
+.my-clearfix {
+    margin-top: 200px;
+}
+
+.my-title {
+    margin-bottom: 20px;
+}
